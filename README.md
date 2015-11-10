@@ -1,0 +1,2 @@
+I_am_a_biginner
+初心者です。
